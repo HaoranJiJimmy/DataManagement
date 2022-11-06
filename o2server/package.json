@@ -29,7 +29,7 @@
   "devDependencies": {
     "gulp": "^4.0.0",
     "gulp-changed": "^3.2.0",
-    "gulp-deleted": "0.0.2",
+    "gulp-deleted": "1.0.0",
     "gulp-ftp": "^1.1.0",
     "gulp-if": "^2.0.2",
     "gulp-rename": "^1.4.0",
